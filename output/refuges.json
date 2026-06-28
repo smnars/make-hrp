@@ -1,0 +1,552 @@
+[
+  {
+    "nom": "Refuge Wallon - Marcadau",
+    "lat": 42.8200993,
+    "lon": -0.1947114,
+    "ele": 1865.0,
+    "km_trace": 4.95,
+    "distance_trace_m": 33,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Refuge des Oulettes de Gaube",
+    "lat": 42.7929139,
+    "lon": -0.1414258,
+    "ele": 2151.0,
+    "km_trace": 14.33,
+    "distance_trace_m": 13,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Refuge de Bayssellance",
+    "lat": 42.7793997,
+    "lon": -0.1242027,
+    "ele": 2651.0,
+    "km_trace": 18.78,
+    "distance_trace_m": 13,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Cabane d'Ossoue",
+    "lat": 42.7571703,
+    "lon": -0.0940523,
+    "ele": 1840.0,
+    "km_trace": 24.41,
+    "distance_trace_m": 41,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Cabane de Lourdes",
+    "lat": 42.745299,
+    "lon": -0.0919988,
+    "ele": 1955.0,
+    "km_trace": 26.13,
+    "distance_trace_m": 46,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Cabane de Milhas",
+    "lat": 42.7498322,
+    "lon": -0.0730155,
+    "ele": 1680.0,
+    "km_trace": 27.75,
+    "distance_trace_m": 635,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Cabane de Sausse Dessus",
+    "lat": 42.7376155,
+    "lon": -0.071265,
+    "ele": 1900.0,
+    "km_trace": 28.76,
+    "distance_trace_m": 21,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Cabane de Tousaus",
+    "lat": 42.7413827,
+    "lon": -0.0378836,
+    "ele": 1835.0,
+    "km_trace": 32.13,
+    "distance_trace_m": 6,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Chalet La Grange de Holle",
+    "lat": 42.7394355,
+    "lon": -0.0226707,
+    "ele": 1495.0,
+    "km_trace": 34.14,
+    "distance_trace_m": 23,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Gavarnie village",
+    "lat": 42.7378,
+    "lon": -0.0191,
+    "ele": 1365,
+    "km_trace": 34.58,
+    "distance_trace_m": 103,
+    "source": "known",
+    "type": "village"
+  },
+  {
+    "nom": "Cabane de Pouey-Aspé",
+    "lat": 42.7199921,
+    "lon": -0.0172735,
+    "ele": null,
+    "km_trace": 36.94,
+    "distance_trace_m": 882,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Chalet du Pailha",
+    "lat": 42.7196061,
+    "lon": 0.0005074,
+    "ele": 1750.0,
+    "km_trace": 38.57,
+    "distance_trace_m": 123,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Cabane de Pailha",
+    "lat": 42.7183988,
+    "lon": 0.0072062,
+    "ele": 1850.0,
+    "km_trace": 39.01,
+    "distance_trace_m": 158,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Cabane d'Alans",
+    "lat": 42.7303733,
+    "lon": 0.0040987,
+    "ele": 1905.0,
+    "km_trace": 39.47,
+    "distance_trace_m": 803,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Refuge des Espuguettes",
+    "lat": 42.7198819,
+    "lon": 0.0122229,
+    "ele": 2027.0,
+    "km_trace": 40.2,
+    "distance_trace_m": 26,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Cabane d'Estaubé",
+    "lat": 42.7294801,
+    "lon": 0.0492551,
+    "ele": 1765.0,
+    "km_trace": 47.13,
+    "distance_trace_m": 263,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Auberge du Maillet",
+    "lat": 42.736,
+    "lon": 0.086,
+    "ele": 1837,
+    "km_trace": 53.33,
+    "distance_trace_m": 645,
+    "source": "known",
+    "type": "auberge"
+  },
+  {
+    "nom": "Cabane de Groutte",
+    "lat": 42.7423699,
+    "lon": 0.0848622,
+    "ele": null,
+    "km_trace": 53.41,
+    "distance_trace_m": 13,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Auberge de la Munia",
+    "lat": 42.7507943,
+    "lon": 0.0874456,
+    "ele": null,
+    "km_trace": 54.9,
+    "distance_trace_m": 304,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Cabane de Camplong",
+    "lat": 42.7620857,
+    "lon": 0.0778499,
+    "ele": 2031.0,
+    "km_trace": 55.98,
+    "distance_trace_m": 1381,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Cabane de l'Aguila",
+    "lat": 42.758926,
+    "lon": 0.0976281,
+    "ele": 1910.0,
+    "km_trace": 57.05,
+    "distance_trace_m": 3,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Cabane des Aguilous",
+    "lat": 42.7564074,
+    "lon": 0.1120841,
+    "ele": 2285.0,
+    "km_trace": 59.55,
+    "distance_trace_m": 3,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Lacs de Barroude bivouac",
+    "lat": 42.752,
+    "lon": 0.145,
+    "ele": 2350,
+    "km_trace": 65.09,
+    "distance_trace_m": 104,
+    "source": "known",
+    "type": "bivouac"
+  },
+  {
+    "nom": "Abri sommaire Baroude",
+    "lat": 42.7344141,
+    "lon": 0.1438643,
+    "ele": null,
+    "km_trace": 67.67,
+    "distance_trace_m": 36,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Cabaña de Barrosa",
+    "lat": 42.704446,
+    "lon": 0.1570664,
+    "ele": 1745.0,
+    "km_trace": 73.99,
+    "distance_trace_m": 28,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Refugio de Barannetas",
+    "lat": 42.6772833,
+    "lon": 0.2736153,
+    "ele": null,
+    "km_trace": 92.22,
+    "distance_trace_m": 12,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Refugio Urdiceto",
+    "lat": 42.6682333,
+    "lon": 0.2823534,
+    "ele": null,
+    "km_trace": 94.2,
+    "distance_trace_m": 488,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Refugio del Paso de los Caballos",
+    "lat": 42.6687102,
+    "lon": 0.2905277,
+    "ele": 2310.0,
+    "km_trace": 94.44,
+    "distance_trace_m": 10,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Cabana de Sallena",
+    "lat": 42.6604873,
+    "lon": 0.3256914,
+    "ele": null,
+    "km_trace": 98.4,
+    "distance_trace_m": 13,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Cabaña de Lisier",
+    "lat": 42.652453,
+    "lon": 0.3401104,
+    "ele": null,
+    "km_trace": 100.28,
+    "distance_trace_m": 20,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Refugio de Es Plans",
+    "lat": 42.6587623,
+    "lon": 0.3696314,
+    "ele": null,
+    "km_trace": 103.44,
+    "distance_trace_m": 164,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Refugio de Viadós",
+    "lat": 42.6606239,
+    "lon": 0.3772732,
+    "ele": 1760.0,
+    "km_trace": 104.31,
+    "distance_trace_m": 1,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Cabaña de Puyarueso",
+    "lat": 42.6655372,
+    "lon": 0.3932268,
+    "ele": 1840.0,
+    "km_trace": 105.97,
+    "distance_trace_m": 74,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Cabana de la Basa",
+    "lat": 42.6629188,
+    "lon": 0.3977048,
+    "ele": null,
+    "km_trace": 106.06,
+    "distance_trace_m": 370,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Cabane Aygues-Tortes",
+    "lat": 42.661,
+    "lon": 0.43,
+    "ele": 2100,
+    "km_trace": 107.27,
+    "distance_trace_m": 2435,
+    "source": "known",
+    "type": "cabane"
+  },
+  {
+    "nom": "Cabaña de Añes Cruces",
+    "lat": 42.6800395,
+    "lon": 0.4086445,
+    "ele": 2075.0,
+    "km_trace": 108.35,
+    "distance_trace_m": 74,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Refuge de Prat-Cazeneuve ou d'Aygues Tortes",
+    "lat": 42.7034755,
+    "lon": 0.4373991,
+    "ele": 2020.0,
+    "km_trace": 114.32,
+    "distance_trace_m": 3,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Abri de La Neste de Clarabide",
+    "lat": 42.715234,
+    "lon": 0.427398,
+    "ele": null,
+    "km_trace": 116.2,
+    "distance_trace_m": 22,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Refuge de la Soula",
+    "lat": 42.722656,
+    "lon": 0.4199402,
+    "ele": 1690.0,
+    "km_trace": 117.6,
+    "distance_trace_m": 8,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Refuge de Caillauas",
+    "lat": 42.7209835,
+    "lon": 0.4422567,
+    "ele": null,
+    "km_trace": 121.09,
+    "distance_trace_m": 72,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Abri sous roche",
+    "lat": 42.7089942,
+    "lon": 0.467049,
+    "ele": null,
+    "km_trace": 124.03,
+    "distance_trace_m": 4,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Refuge du Portillon",
+    "lat": 42.7038492,
+    "lon": 0.5081129,
+    "ele": 2570.0,
+    "km_trace": 128.69,
+    "distance_trace_m": 8,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Abrigo de la Besurta",
+    "lat": 42.6806617,
+    "lon": 0.6434182,
+    "ele": 1850.0,
+    "km_trace": 142.74,
+    "distance_trace_m": 21,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Cabaña de La Besurta",
+    "lat": 42.6787875,
+    "lon": 0.6500178,
+    "ele": null,
+    "km_trace": 143.46,
+    "distance_trace_m": 11,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Refugio de la Renclusa",
+    "lat": 42.669315,
+    "lon": 0.6508045,
+    "ele": 2138.0,
+    "km_trace": 145.24,
+    "distance_trace_m": 17,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Refugi de Molières",
+    "lat": 42.6280539,
+    "lon": 0.7193092,
+    "ele": 2390.0,
+    "km_trace": 155.48,
+    "distance_trace_m": 97,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Refugi de Conangles",
+    "lat": 42.61524,
+    "lon": 0.7681894,
+    "ele": 1555.0,
+    "km_trace": 160.23,
+    "distance_trace_m": 1214,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Cabana Basses de Rius",
+    "lat": 42.6402973,
+    "lon": 0.8407777,
+    "ele": null,
+    "km_trace": 172.24,
+    "distance_trace_m": 1218,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Cabana de Rius",
+    "lat": 42.6423698,
+    "lon": 0.8518783,
+    "ele": 1650.0,
+    "km_trace": 173.31,
+    "distance_trace_m": 890,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Refugi de la Restanca",
+    "lat": 42.6347064,
+    "lon": 0.8546487,
+    "ele": 2010.0,
+    "km_trace": 173.31,
+    "distance_trace_m": 9,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "abric de roca",
+    "lat": 42.6191026,
+    "lon": 0.8796074,
+    "ele": null,
+    "km_trace": 176.7,
+    "distance_trace_m": 691,
+    "source": "osm",
+    "type": "shelter"
+  },
+  {
+    "nom": "Refugi de Colomèrs",
+    "lat": 42.6242532,
+    "lon": 0.9206471,
+    "ele": 2135.0,
+    "km_trace": 180.52,
+    "distance_trace_m": 11,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Refugi de Saboredo",
+    "lat": 42.6210709,
+    "lon": 0.9633768,
+    "ele": 2298.0,
+    "km_trace": 188.19,
+    "distance_trace_m": 6,
+    "source": "osm",
+    "type": "alpine_hut"
+  },
+  {
+    "nom": "Refugi de la Pleta del Duc",
+    "lat": 42.6579754,
+    "lon": 0.9868031,
+    "ele": 2080.0,
+    "km_trace": 196.12,
+    "distance_trace_m": 457,
+    "source": "osm",
+    "type": "wilderness_hut"
+  },
+  {
+    "nom": "Refugi Airoto-Gràcia",
+    "lat": 42.6966326,
+    "lon": 1.0421539,
+    "ele": 2199.0,
+    "km_trace": 203.73,
+    "distance_trace_m": 1169,
+    "source": "osm",
+    "type": "wilderness_hut"
+  }
+]

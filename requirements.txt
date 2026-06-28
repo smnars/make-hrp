@@ -1,0 +1,12 @@
+gpxpy>=1.6.2
+geopandas>=0.14
+shapely>=2.0
+scipy>=1.11
+folium>=0.15
+plotly>=5.18
+matplotlib>=3.8
+kaleido>=0.2
+requests>=2.31
+pandas>=2.1
+numpy>=1.26
+rich>=13.7
